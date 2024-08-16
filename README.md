@@ -11,7 +11,7 @@
 - Qualquer usuário do tiktok que deseje baixar vídeos com essa opção privada no app e, sem a marca d'água.
 
 ### When
-- 16/08: Entregar o 5WH até às 23:59h.
+- 16/08: Entregar o 5WH até às 23:59h. ☑️
 
 ### Where
 - Web.
