@@ -11,7 +11,7 @@
 - Qualquer usuário do tiktok que deseje baixar vídeos com essa opção privada no app e, sem a marca d'água.
 
 ### When
-- Devolutiva da prova da segunda unidade.
+- 16/08: Entregar o 5WH até às 23:59h.
 
 ### Where
 - Web.
@@ -19,5 +19,5 @@
 ### How
 - Front-end: Tailwind(CSS framework) e React. 
 - Back-end: NestJS, RabbitMQ, Selenium e Docker.
-  ‎ 
- by: Rildo Silva e Nathan Rodrigues.
+  ‎
+ #### by: <a href="https://github.com/slocksert">Rildo Silva</a> e <a href="https://github.com/NeithanRodrigues">Nathan Rodrigues</a>.
