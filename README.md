@@ -19,7 +19,5 @@
 ### How
 - Front-end: Tailwind(CSS framework) e React. 
 - Back-end: NestJS, RabbitMQ, Selenium e Docker.
-‎ 
-
-‎ ‎ 
+  ‎ 
  by: Rildo Silva e Nathan Rodrigues.
