@@ -12,7 +12,7 @@
 
 ### When
 - 16/08: Entregar o 5WH até às 23:59h. ☑️
-- 07/09: Prototipação do Design no Figma e Prototipação do Backend 
+- 07/09: Prototipação do Design no Figma e Prototipação do Backend ☑️
 
 ### Where
 - Web.
